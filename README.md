@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Data Enthusiast</h3>
 <img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditisomani04&label=Profile%20views&color=0e75b6&style=flat" alt="aditisomani04" /> </p>
+
 - 🔭 I’m currently pursuing **MS in Business Analytics at Seattle University**
 - 🌱 I’m currently learning to **write efficient code**
 - 👯 I’m looking to collaborate on **projects related to analytics domain**
