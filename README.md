@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Aditi Somani</h1>
-<h3 align="center">A passionate Data Enthusiast from India</h3>
+<h3 align="center">A passionate Data Enthusiast</h3>
 <img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently pursuing my **MS in Business Analytics at Seattle University**
-- 🌱 I’m currently learning to **write efficient codes**
-- 👯 I’m looking to collaborate on **projects related to finance domain**
+- 🔭 I’m currently pursuing **MS in Business Analytics at Seattle University**
+- 🌱 I’m currently learning to **write efficient code**
+- 👯 I’m looking to collaborate on **projects related to analytics domain**
 - 🤝 I’m looking for help with **finding internships**
 - 💬 Ask me about **data vizualisation, data story telling**
 - 📫 How to reach me: **aditisomani04@gmail.com**
