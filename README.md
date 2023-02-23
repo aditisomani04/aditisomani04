@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-**aditisomani04/aditisomani04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pursuing my **MS in Business Analytics at Seattle University**
 - 🌱 I’m currently learning to **write efficient codes**
 - 👯 I’m looking to collaborate on **projects related to finance domain**
