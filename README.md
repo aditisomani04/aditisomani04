@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditisomani04&label=Profile%20views&color=0e75b6&style=flat" alt="aditisomani04" /> </p>
 
-- 🔭 I’m currently pursuing **MS in Business Analytics at Seattle University**
-- 🌱 I’m currently learning to **write efficient code**
-- 👯 I’m looking to collaborate on **projects related to analytics domain**
-- 🤝 I’m looking for help with **finding internships**
-- 💬 Ask me about **data vizualisation, data story telling**
+- 🔭 I’m currently pursuing **MS in Business Analytics(STEM) at Seattle University**
+- 🌱 I’m currently learning to **solving complex business problems using analytics and leveraging technology**
+- 👯 I’m looking to collaborate on **real life projects related to analytics**
+- 🤝 I’m looking for help with **seeking business intelligence/data analyst full-time/intern/co-op roles**
+- 💬 Ask me about **data vizualisation, data story telling, sql, tableau**
 - 📫 How to reach me: **aditisomani04@gmail.com**
-- ⚡ Fun fact: I share birthdate with google when it was incorpoorated 
+- ⚡ Fun fact: I share birthdate with google when it was incorporated 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
