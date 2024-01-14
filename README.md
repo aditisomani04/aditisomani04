@@ -8,8 +8,8 @@
 - 🔭 I’m currently pursuing **MS in Business Analytics(STEM) at Seattle University**
 - 🌱 I’m currently learning to **solving complex business problems using analytics and leveraging technology**
 - 👯 I’m looking to collaborate on **real life projects related to analytics**
-- 🤝 I’m looking for help with **seeking business intelligence/data analyst full-time/intern/co-op roles**
-- 💬 Ask me about **data vizualisation, data story telling, sql, tableau**
+- 🤝 I’m **seeking business intelligence/data analyst full-time/intern/co-op roles**
+- 💬 Ask me about **data vizualisation, data story telling, sql, tableau, cost benefit analysis**
 - 📫 How to reach me: **aditisomani04@gmail.com**
 - ⚡ Fun fact: I share birthdate with google when it was incorporated 
 
