@@ -10,4 +10,4 @@
 - 👯 I’m looking to collaborate on **real life projects related to analytics**
 - 🤝 I’m **seeking business intelligence full-time roles**
 - 💬 Ask me about **data vizualisation, data story telling, sql, tableau, cost benefit analysis**
-- ⚡ Fun fact: I share birthdate with google when it was incorporated.
+- ⚡ **Fun fact:** I share birthdate with google when it was incorporated.
