@@ -8,6 +8,5 @@
 - 🔭 I’m currently pursuing **MS in Business Analytics(STEM) at Seattle University**
 - 🌱 I’m currently learning to **solving complex business problems leveraging technology**
 - 👯 I’m looking to collaborate on **real life projects related to analytics**
-- 🤝 I’m **seeking business intelligence full-time roles**
-- 💬 Ask me about **data vizualisation, data story telling, SQL, Python, R, Tableau, cost benefit analysis**
+- 💬 Ask me about **data vizualisation, marketing, data story telling, SQL, Python, R, Tableau, cost benefit analysis**
 - ⚡ **Fun fact:** I share birthdate with google when it was incorporated.
