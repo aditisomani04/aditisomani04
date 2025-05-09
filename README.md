@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditisomani04&label=Profile%20views&color=0e75b6&style=flat" alt="aditisomani04" /> </p>
 
-- 🔭 I’m currently pursuing **MS in Business Analytics(STEM) at Seattle University**
+- 🔭 I’m a recent graduate with **MS in Business Analytics(STEM) at Seattle University**
 - 🌱 I’m currently learning to **solving complex business problems leveraging technology**
 - 👯 I’m looking to collaborate on **real life projects related to analytics**
 - 💬 Ask me about **data vizualisation, marketing, data story telling, SQL, Python, R, Tableau, cost benefit analysis**
