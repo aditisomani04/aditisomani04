@@ -7,6 +7,6 @@
 
 - 🔭 I’m a recent graduate with **MS in Business Analytics(STEM) at Seattle University**
 - 🌱 I’m currently learning to **solving complex business problems leveraging technology**
-- 👯 I’m looking to collaborate on **real life projects related to analytics**
-- 💬 Ask me about **data vizualisation, marketing, data story telling, SQL, Python, R, Tableau, cost benefit analysis**
-- ⚡ **Fun fact:** I share birthdate with google when it was incorporated.
+- 👯 I’m looking to collaborate on **writing efficient code and analytical projects**
+- 💬 Ask me about **exploratory data analysis, data vizualisation, data story telling, SQL, Python, Tableau, cost benefit analysis**
+- ⚡ **Fun fact:**I am the one with the broken teeth**
