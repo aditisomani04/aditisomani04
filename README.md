@@ -9,4 +9,3 @@
 - 🌱 I’m currently learning to **solving complex business problems leveraging technology**
 - 👯 I’m looking to collaborate on **writing efficient code and analytical projects**
 - 💬 Ask me about **exploratory data analysis, data vizualisation, data story telling, SQL, Python, Tableau, cost benefit analysis**
-- ⚡ **Fun fact:**I am the one with the broken teeth**
